@@ -32,3 +32,4 @@ bash build SRC_FOLDER DST_FOLDER
 
 ## Even newer build procedure
 Use the deployment Web app! 
+test
